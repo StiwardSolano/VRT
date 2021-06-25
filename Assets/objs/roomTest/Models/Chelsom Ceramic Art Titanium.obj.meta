@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: e9a1cb89932b44176896006f13c53039
+timeCreated: 1480625131
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baze
+    100002: Baze_MeshPart0
+    100004: Baze_MeshPart1
+    100006: Baze_MeshPart2
+    100008: Baze_MeshPart3
+    100010: Box003
+    100012: //RootNode
+    100014: Chelsom_Ceramic_Art_Shade_001
+    100016: Chelsom_Ceramic_Art_Shade_Stuff
+    100018: Line002
+    100020: Object007
+    100022: Torus001
+    400000: Baze
+    400002: Baze_MeshPart0
+    400004: Baze_MeshPart1
+    400006: Baze_MeshPart2
+    400008: Baze_MeshPart3
+    400010: Box003
+    400012: //RootNode
+    400014: Chelsom_Ceramic_Art_Shade_001
+    400016: Chelsom_Ceramic_Art_Shade_Stuff
+    400018: Line002
+    400020: Object007
+    400022: Torus001
+    2300000: Baze_MeshPart0
+    2300002: Baze_MeshPart1
+    2300004: Baze_MeshPart2
+    2300006: Baze_MeshPart3
+    2300008: Box003
+    2300010: Chelsom_Ceramic_Art_Shade_001
+    2300012: Chelsom_Ceramic_Art_Shade_Stuff
+    2300014: Line002
+    2300016: Object007
+    2300018: Torus001
+    3300000: Baze_MeshPart0
+    3300002: Baze_MeshPart1
+    3300004: Baze_MeshPart2
+    3300006: Baze_MeshPart3
+    3300008: Box003
+    3300010: Chelsom_Ceramic_Art_Shade_001
+    3300012: Chelsom_Ceramic_Art_Shade_Stuff
+    3300014: Line002
+    3300016: Object007
+    3300018: Torus001
+    4300000: Baze_MeshPart0
+    4300002: Baze_MeshPart1
+    4300004: Baze_MeshPart2
+    4300006: Baze_MeshPart3
+    4300008: Box003
+    4300010: Chelsom_Ceramic_Art_Shade_001
+    4300012: Chelsom_Ceramic_Art_Shade_Stuff
+    4300014: Line002
+    4300016: Object007
+    4300018: Torus001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0025
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
