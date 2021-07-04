@@ -1842,7 +1842,7 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 1, g: 0.7568628, b: 0.027450982, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 60
   m_SpotAngle: 50
@@ -7162,9 +7162,7 @@ MonoBehaviour:
   sOso: {fileID: 0}
   sElefante: {fileID: 1403721151}
   wrong: {fileID: 277936917}
-  avion: {fileID: 0}
-  oso: {fileID: 0}
-  elefante: {fileID: 1499834445722101140}
+  palabra: 
 --- !u!65 &639445523
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7196,7 +7194,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 831e6a785dc582f40afe694b179291ff, type: 2}
+  - {fileID: 2100000, guid: f71f76fe9d138b742a57bd5842684282, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9420,9 +9418,7 @@ MonoBehaviour:
   sOso: {fileID: 0}
   sElefante: {fileID: 0}
   wrong: {fileID: 277936917}
-  avion: {fileID: 3046260876622145586}
-  oso: {fileID: 0}
-  elefante: {fileID: 0}
+  palabra: 
 --- !u!65 &948551535
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9454,7 +9450,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 831e6a785dc582f40afe694b179291ff, type: 2}
+  - {fileID: 2100000, guid: f71f76fe9d138b742a57bd5842684282, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -18388,7 +18384,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 569cb1486ae4e57419a46de1ff648dc3, type: 2}
+  - {fileID: 2100000, guid: f71f76fe9d138b742a57bd5842684282, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19045,7 +19041,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 569cb1486ae4e57419a46de1ff648dc3, type: 2}
+  - {fileID: 2100000, guid: f71f76fe9d138b742a57bd5842684282, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20391,7 +20387,7 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.8820755, g: 0.96359634, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 700
   m_SpotAngle: 40
@@ -21205,9 +21201,7 @@ MonoBehaviour:
   sOso: {fileID: 1159888464}
   sElefante: {fileID: 0}
   wrong: {fileID: 277936917}
-  avion: {fileID: 0}
-  oso: {fileID: 4500792765638855972}
-  elefante: {fileID: 0}
+  palabra: 
 --- !u!65 &1990294291
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21239,7 +21233,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 831e6a785dc582f40afe694b179291ff, type: 2}
+  - {fileID: 2100000, guid: f71f76fe9d138b742a57bd5842684282, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
